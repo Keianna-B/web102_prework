@@ -25,7 +25,7 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/Keianna-B/web102_prework/blob/main/PreWork%20Demo%20-%20Made%20with%20Clipchamp.mp4' width='' alt='Video Walkthrough'/>
+<img src='https://github.com/Keianna-B/web102_prework/blob/main/PreWork%20Demo%20-%20Made%20with%20Clipchamp.gif' width='' alt='Video Walkthrough'/>
 <!--  -->
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Clipchamp 
