@@ -25,7 +25,7 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src='https://cometmail-my.sharepoint.com/:v:/g/personal/knb220004_utdallas_edu/Ef2K1Cd_fb5OseRPhwXoMhMByrC-V-Y8Adb99pA8SgGnVA?e=uhDtgr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+iframe width="560" height="315" src='https://cometmail-my.sharepoint.com/:v:/g/personal/knb220004_utdallas_edu/Ef2K1Cd_fb5OseRPhwXoMhMByrC-V-Y8Adb99pA8SgGnVA?e=uhDtgr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D' title='Video Walkthrough' alt='Video Walkthrough' />
 <!-- https://github.com/Keianna-B/web102_prework/blob/main/PreWork%20Demo%20-%20Made%20with%20Clipchamp.mp4 -->
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Clipchamp 
