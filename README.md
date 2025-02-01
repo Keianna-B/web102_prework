@@ -25,8 +25,8 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/Keianna-B/web102_prework/blob/main/PreWork%20Demo%20-%20Made%20with%20Clipchamp.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://cometmail-my.sharepoint.com/personal/knb220004_utdallas_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fknb220004%5Futdallas%5Fedu%2FDocuments%2FPreWork%20Demo%20%2D%20Made%20with%20Clipchamp%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E00e4dcdf%2Dd712%2D474b%2Da7ff%2D321a22976bbd&isDarkMode=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- https://github.com/Keianna-B/web102_prework/blob/main/PreWork%20Demo%20-%20Made%20with%20Clipchamp.mp4 -->
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Clipchamp 
 <!-- Recommended tools:
